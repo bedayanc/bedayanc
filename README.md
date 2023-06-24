@@ -1,8 +1,7 @@
 - 👋 Hi, I’m Bedayan Chakrabarty @bedayanc
 - 👀 I’m interested in Data analysis
 - 🌱 I’m new to the Data domain and currently learning 
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+
 
 
 ## About Me
